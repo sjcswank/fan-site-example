@@ -1,0 +1,71 @@
+body {
+    position: relative;
+}
+/* bootstrap 3 helpers */
+
+.navbar-form input, .form-inline input {
+	width:auto;
+}
+
+#nav.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:10;
+}
+
+h1 {
+    text-align: center;
+    font-family:  'Amatic SC', cursive;
+    font-size: 65px;
+}
+
+h2 {
+    text-align: justify;
+    font-family: 'Josefin Slab', serif;
+}
+
+h3 {
+    font-family: 'Josefin Slab', serif;
+}
+
+.right {
+    text-align: right;
+}
+
+.top {
+    margin-top: 50px;
+}
+
+#videos {
+    margin-bottom: 50px;
+}
+
+#videos h1 {
+    padding-bottom: 20px;
+}
+
+footer{
+    background: #fff;
+    color: #666;
+    padding: 20px 0 15px 0;
+    border-top-style: solid;
+    border-top-color: #666;
+    border-top-width: thin;
+
+}
+
+footer li{
+    float: left;
+    padding: 0 10px 0 10px;
+    list-style: none;
+}
+
+footer a{
+    color:#666;
+}
+
+footer p{
+    float: right;
+    padding-right: 70px;
+}
