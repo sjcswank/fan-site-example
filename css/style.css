@@ -20,12 +20,8 @@ h1 {
     font-size: 65px;
 }
 
-h2 {
+h2, h3 {
     text-align: justify;
-    font-family: 'Josefin Slab', serif;
-}
-
-h3 {
     font-family: 'Josefin Slab', serif;
 }
 
